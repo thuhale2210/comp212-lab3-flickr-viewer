@@ -1,0 +1,47 @@
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch23\fig23_04\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe.config
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch23\fig23_04\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch23\fig23_04\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.pdb
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csprojResolveAssemblyReference.cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.FickrViewerForm.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.Properties.Resources.resources
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.GenerateResource.Cache
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.exe
+Z:\pauldeitel\Dropbox\books\2016\VCSharp2015HTP\examples\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.pdb
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#13(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe.config
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#13(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.exe
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#13(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.pdb
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#13(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#13(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.pdb
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#13(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csprojResolveAssemblyReference.cache
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#13(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.FickrViewerForm.resources
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#13(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.Properties.Resources.resources
+C:\CentennialCollege\2017Winter\COMP212\LectureNotes\Week#13(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.GenerateResource.Cache
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#10(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe.config
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#10(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#10(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.pdb
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#10(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csprojAssemblyReference.cache
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#10(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.FickrViewerForm.resources
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#10(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.Properties.Resources.resources
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#10(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.GenerateResource.cache
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#10(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.CoreCompileInputs.cache
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#10(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.exe
+C:\Centennialcollege\2019Winter\COMP212\LectureNotes\Week#10(AsynchronousProgramming)\ch23\fig23_04\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.pdb
+H:\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe.config
+H:\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe
+H:\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.pdb
+H:\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.AssemblyReference.cache
+H:\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.FickrViewerForm.resources
+H:\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.Properties.Resources.resources
+H:\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.GenerateResource.cache
+H:\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.CoreCompileInputs.cache
+H:\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.exe
+H:\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.pdb
+C:\Users\kietg\Downloads\Bong resume\301259611(Le)_LAB3\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe.config
+C:\Users\kietg\Downloads\Bong resume\301259611(Le)_LAB3\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.exe
+C:\Users\kietg\Downloads\Bong resume\301259611(Le)_LAB3\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\bin\Debug\FlickrViewer.pdb
+C:\Users\kietg\Downloads\Bong resume\301259611(Le)_LAB3\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.FickrViewerForm.resources
+C:\Users\kietg\Downloads\Bong resume\301259611(Le)_LAB3\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.Properties.Resources.resources
+C:\Users\kietg\Downloads\Bong resume\301259611(Le)_LAB3\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.GenerateResource.cache
+C:\Users\kietg\Downloads\Bong resume\301259611(Le)_LAB3\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.csproj.CoreCompileInputs.cache
+C:\Users\kietg\Downloads\Bong resume\301259611(Le)_LAB3\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.exe
+C:\Users\kietg\Downloads\Bong resume\301259611(Le)_LAB3\301259611(Le)_LAB3\FlickrViewer\FlickrViewer\obj\Debug\FlickrViewer.pdb

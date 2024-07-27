@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\301259611(Le)_LAB3\\FlickrViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8060012-E14D-4E12-808B-019DF2169F1C}|FlickrViewer\\FlickrViewer.csproj|h:\\301259611(le)_lab3\\flickrviewer\\flickrviewer\\fickrviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8060012-E14D-4E12-808B-019DF2169F1C}|FlickrViewer\\FlickrViewer.csproj|solutionrelative:flickrviewer\\fickrviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8060012-E14D-4E12-808B-019DF2169F1C}|FlickrViewer\\FlickrViewer.csproj|h:\\301259611(le)_lab3\\flickrviewer\\flickrviewer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A8060012-E14D-4E12-808B-019DF2169F1C}|FlickrViewer\\FlickrViewer.csproj|solutionrelative:flickrviewer\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8060012-E14D-4E12-808B-019DF2169F1C}|FlickrViewer\\FlickrViewer.csproj|h:\\301259611(le)_lab3\\flickrviewer\\flickrviewer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8060012-E14D-4E12-808B-019DF2169F1C}|FlickrViewer\\FlickrViewer.csproj|solutionrelative:flickrviewer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8060012-E14D-4E12-808B-019DF2169F1C}|FlickrViewer\\FlickrViewer.csproj|h:\\301259611(le)_lab3\\flickrviewer\\flickrviewer\\fickrviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A8060012-E14D-4E12-808B-019DF2169F1C}|FlickrViewer\\FlickrViewer.csproj|solutionrelative:flickrviewer\\fickrviewerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8060012-E14D-4E12-808B-019DF2169F1C}|FlickrViewer\\FlickrViewer.csproj|h:\\301259611(le)_lab3\\flickrviewer\\flickrviewer\\flickrresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8060012-E14D-4E12-808B-019DF2169F1C}|FlickrViewer\\FlickrViewer.csproj|solutionrelative:flickrviewer\\flickrresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\301259611(Le)_LAB3\\FlickrViewer\\FlickrViewer\\Program.cs",
+              "RelativeDocumentMoniker": "FlickrViewer\\Program.cs",
+              "ToolTip": "H:\\301259611(Le)_LAB3\\FlickrViewer\\FlickrViewer\\Program.cs",
+              "RelativeToolTip": "FlickrViewer\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:30:50.599Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "H:\\301259611(Le)_LAB3\\FlickrViewer\\FlickrViewer\\App.config",
+              "RelativeDocumentMoniker": "FlickrViewer\\App.config",
+              "ToolTip": "H:\\301259611(Le)_LAB3\\FlickrViewer\\FlickrViewer\\App.config",
+              "RelativeToolTip": "FlickrViewer\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-07-03T21:59:12.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FickrViewerForm.cs",
+              "DocumentMoniker": "H:\\301259611(Le)_LAB3\\FlickrViewer\\FlickrViewer\\FickrViewerForm.cs",
+              "RelativeDocumentMoniker": "FlickrViewer\\FickrViewerForm.cs",
+              "ToolTip": "H:\\301259611(Le)_LAB3\\FlickrViewer\\FlickrViewer\\FickrViewerForm.cs",
+              "RelativeToolTip": "FlickrViewer\\FickrViewerForm.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAUwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:30:59.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlickrResult.cs",
+              "DocumentMoniker": "H:\\301259611(Le)_LAB3\\FlickrViewer\\FlickrViewer\\FlickrResult.cs",
+              "RelativeDocumentMoniker": "FlickrViewer\\FlickrResult.cs",
+              "ToolTip": "H:\\301259611(Le)_LAB3\\FlickrViewer\\FlickrViewer\\FlickrResult.cs",
+              "RelativeToolTip": "FlickrViewer\\FlickrResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:30:49.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FickrViewerForm.cs [Design]",
+              "DocumentMoniker": "H:\\301259611(Le)_LAB3\\FlickrViewer\\FlickrViewer\\FickrViewerForm.cs",
+              "RelativeDocumentMoniker": "FlickrViewer\\FickrViewerForm.cs",
+              "ToolTip": "H:\\301259611(Le)_LAB3\\FlickrViewer\\FlickrViewer\\FickrViewerForm.cs [Design]",
+              "RelativeToolTip": "FlickrViewer\\FickrViewerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T21:30:46.876Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
